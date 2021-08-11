@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.body{
+    font-family: 'Poppins', sans-serif;
+}
 h1{
     font-size: 40px;
 }
@@ -55,3 +59,19 @@ h1{
 .all-highlight img{
     width: 80%;
 }
+.icon{
+    
+     text-align: center; 
+    /* justify-content: center; */
+    /* align-items: flex-start; */
+
+}
+.icon i{
+    width: 35px;
+    height: 35px;
+}
+.logo img{
+    width: 40%;
+    padding-left: 20%;
+}
+
