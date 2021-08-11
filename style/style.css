@@ -2,7 +2,7 @@ h1{
     font-size: 40px;
 }
 
-.bgk1{
+.one{
     display: flex;
     background-color:#2D25A0;
 }
@@ -11,7 +11,7 @@ h1{
     padding: 10%;
 }
 .half img{
-    width: 100%;
+    width: 120%;
 }
 .btn{
     text-decoration: none;
@@ -41,4 +41,17 @@ h1{
     padding: 2%;
     margin: 2%;
     
+}
+/* section three */
+.three{
+    display: flex;
+}
+.all-highlight{
+    width: 466px;
+    height: 309px;
+    padding: 2%;
+
+}
+.all-highlight img{
+    width: 80%;
 }
